@@ -9,16 +9,19 @@ namespace Labirint
 {
     class Program
     {
+<<<<<<< HEAD
 
         TT
-        static List<Stack> TTTTTTT = new List<Stack>();
-        static List<Stack> TTTT = new List<Stack>();
 
 
         TTT
             TTTT
             TT
 
+=======
+        static List<Stack> TTTTTTT = new List<Stack>();
+        static List<Stack> TTTT = new List<Stack>();
+>>>>>>> 1c2732a930b3f6573c051b41877b81bf5d2fdcde
         static List<Stack> indexesCurrentStep = new List<Stack>();
         static List<Stack> indexesNextStep = new List<Stack>();
         static LabWork labWork = new LabWork();
