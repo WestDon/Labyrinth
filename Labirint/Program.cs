@@ -10,8 +10,12 @@ namespace Labirint
     class Program
     {
 
+        TT
 
 
+        TTT
+            TTTT
+            TT
 
         static List<Stack> indexesCurrentStep = new List<Stack>();
         static List<Stack> indexesNextStep = new List<Stack>();
