@@ -9,13 +9,13 @@ namespace Labirint
 {
     class Program
     {
-DGFg
+DGFgdfdfdfdf
             dfgd
-            fgdf
-            gdf
-            g
-            f
-
+            fgdffddfdfdf
+            gdfdfdfdf
+            gddfdffddf
+            fdfdfdfdffd
+            dfdfdfdfdfddfdfdfdff
         static List<Stack> indexesCurrentStep = new List<Stack>();
         static List<Stack> indexesNextStep = new List<Stack>();
         static LabWork labWork = new LabWork();
