@@ -9,18 +9,20 @@ namespace Labirint
 {
     class Program
     {
-DGFgdfdfdfdf
-            dfgd
 <<<<<<< HEAD
+DGFgdfdfdfdffghfghfg
+=======
+111111111
+>>>>>>> origin/master
+DGFgrerererere
+            dfgd
             fgdffddfdfdf
+            fgdf
             gdfdfdfdf
             gddfdffddf
             fdfdfdfdffd
             dfdfdfdfdfddfdfdfdff
-=======
-            fgdf
 
->>>>>>> 5929ed02675ccaffc6fdf484d0f88ed3b2e87224
         static List<Stack> indexesCurrentStep = new List<Stack>();
         static List<Stack> indexesNextStep = new List<Stack>();
         static LabWork labWork = new LabWork();
