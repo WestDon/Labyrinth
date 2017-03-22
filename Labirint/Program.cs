@@ -10,9 +10,7 @@ namespace Labirint
     class Program
     {
 
-        TT
-        static List<Stack> TTTTTTT = new List<Stack>();
-        static List<Stack> TTTT = new List<Stack>();
+       
 
 
         TTT
