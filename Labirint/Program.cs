@@ -9,7 +9,7 @@ namespace Labirint
 {
     class Program
     {
-DGFgdfdfdfdf
+111111111
 DGFgrerererere
             dfgd
             fgdffddfdfdf
