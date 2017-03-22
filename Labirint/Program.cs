@@ -9,6 +9,10 @@ namespace Labirint
 {
     class Program
     {
+
+
+
+
         static List<Stack> indexesCurrentStep = new List<Stack>();
         static List<Stack> indexesNextStep = new List<Stack>();
         static LabWork labWork = new LabWork();
