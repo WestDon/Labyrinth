@@ -9,11 +9,7 @@ using System.Threading.Tasks;
 namespace Labirint
 {
     public class LabWork
-<<<<<<< HEAD
-    {rtyrtdfdfdfddf
-=======
-    {rtyrt
->>>>>>> test
+    { 
         public int XCount { get; set; }
         public int YCount { get; set; }
         public int[,] ReadFile()
