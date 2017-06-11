@@ -14,7 +14,7 @@ namespace Labirint
         public int YCount { get; set; }
         public int[,] ReadFile()
         {
-            //read file////
+            //read file1111////
             //new2222/
             StreamReader stRead = new StreamReader("lab.txt");
             int[,] lab = new int[11, 5];
