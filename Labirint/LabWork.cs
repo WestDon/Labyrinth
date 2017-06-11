@@ -15,6 +15,7 @@ namespace Labirint
         public int[,] ReadFile()
         {
             //read file
+            //erweyjlkhjgjghjghlsgfdfg
             StreamReader stRead = new StreamReader("lab.txt");
             int[,] lab = new int[11, 5];
             int index = 0;
