@@ -9,6 +9,7 @@ namespace Labirint
 {
     class Program
     {
+        //no wasdfsdfnt commit2222
         static List<Stack> indexesCurrentStep = new List<Stack>();
         static List<Stack> indexesNextStep = new List<Stack>();
         static LabWork labWork = new LabWork();
