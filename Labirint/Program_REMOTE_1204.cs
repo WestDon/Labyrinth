@@ -9,11 +9,7 @@ namespace Labirint
 {
     class Program
     {
-<<<<<<< Updated upstream
-        //no wasdfsdfnt commit2222
-=======
         //no want commit
->>>>>>> Stashed changes
         static List<Stack> indexesCurrentStep = new List<Stack>();
         static List<Stack> indexesNextStep = new List<Stack>();
         static LabWork labWork = new LabWork();
