@@ -9,7 +9,8 @@ namespace Labirint
 {
     class Program
     {
-        //no want commit!!!!//no want commit22222!!!!
+        //no wasdfsdfnt commit2222
+        //fghdfgdf
         static List<Stack> indexesCurrentStep = new List<Stack>();
         static List<Stack> indexesNextStep = new List<Stack>();
         static LabWork labWork = new LabWork();
