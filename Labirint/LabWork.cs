@@ -8,6 +8,8 @@ using System.Threading.Tasks;
 
 
 
+
+
 namespace Labirint
 {
     public class LabWork
